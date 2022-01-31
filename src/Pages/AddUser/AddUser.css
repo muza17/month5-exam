@@ -1,0 +1,38 @@
+.add-top{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.add-h1{
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+}
+.add-input-label{
+    display: flex;
+    flex-direction: column;
+}
+.add-input{
+    padding: 10px 15px;
+    margin: 10px 0px;
+    width: 200px;
+}
+.add-select{
+    padding: 10px 15px;
+    margin: 40px 0px;
+}
+.add-inputs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom:100px;
+}
+.add-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

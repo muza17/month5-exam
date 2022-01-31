@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "pupils": [
+    {
+      "id": 1643568035348,
+      "content": "assa",
+      "course": "graphic",
+      "surname": "srd",
+      "age": "14",
+      "phoneNumber": "25425"
+    },
+    {
+      "id": 1643602875377,
+      "content": "men",
+      "course": "",
+      "surname": "Inomova",
+      "age": "21",
+      "phoneNumber": "88545720"
+    },
+    {
+      "id": 1643607265753,
+      "content": "adahdbjsa",
+      "course": "",
+      "surname": "salid",
+      "age": "45",
+      "phoneNumber": "1515"
+    },
+    {
+      "id": 1643635069281,
+      "content": "Asomiddin",
+      "course": "web",
+      "surname": "Khalilov",
+      "age": "19",
+      "phoneNumber": "+9989546751"
+    },
+    {
+      "id": 1643635207254,
+      "content": "Omina",
+      "course": "graphic",
+      "surname": "Abdusattarova",
+      "age": "20",
+      "phoneNumber": "+9989546751"
+    },
+    {
+      "id": 1643635264381,
+      "content": "Mahfuza",
+      "course": "web",
+      "surname": "Inomova",
+      "age": "21",
+      "phoneNumber": "+9989546751"
+    },
+    {
+      "id": 1643635441638,
+      "content": "Nurbek",
+      "course": "android",
+      "surname": "Nuraliyev",
+      "age": "22",
+      "phoneNumber": "+9989546751"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
